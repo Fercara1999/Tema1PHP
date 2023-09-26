@@ -2,5 +2,5 @@
 
     echo "Hola Mundo";
     echo "Prueba 2";
-    echo "Visual";
+    echo "Nuevo Visual";
 ?>
